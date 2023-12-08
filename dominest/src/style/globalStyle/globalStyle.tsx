@@ -31,3 +31,7 @@ export const globalStyles = css`
     height: 94vh;
   }
 `;
+export const Main = css`
+  height: 100%;
+  width: 100%;
+`
